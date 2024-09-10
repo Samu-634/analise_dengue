@@ -10,7 +10,7 @@ Disponível em: <https://www.kaggle.com/datasets/henriquerezermosqur/dados-sus-s
 
 Acesso em: 02 de setembro de 2024
 
-Shapefile dos Municípios: <https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html> 
+Shapefile dos Municípios (necessário baixar): <https://www.ibge.gov.br/geociencias/organizacao-do-territorio/malhas-territoriais/15774-malhas.html> 
 
 Acesso em: 02 de setembro de 2024
 
